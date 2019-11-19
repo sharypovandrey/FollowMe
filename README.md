@@ -10,3 +10,9 @@
 ## Development plan
 1. Install opencv and yolo
 2. Research of Re-Identification algorithms
+
+## Build third parties
+### OpenCV
+http://eevee.cc/2017/05/17/build-opencv-on-firefly-rk3399/
+### YOLO
+https://pjreddie.com/darknet/yolo/
