@@ -16,3 +16,7 @@
 http://eevee.cc/2017/05/17/build-opencv-on-firefly-rk3399/
 ### YOLO
 https://pjreddie.com/darknet/yolo/
+
+
+### Opencv detects pedestrians
+https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
