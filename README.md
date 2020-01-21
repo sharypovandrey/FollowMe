@@ -20,3 +20,6 @@ https://pjreddie.com/darknet/yolo/
 
 ### Opencv detects pedestrians
 https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
+
+### centroids method
+https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
